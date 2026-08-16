@@ -19,8 +19,7 @@ something to print and look at, not as a finished kit that is known to work.
 
 I am writing a proper step-by-step guide. One part per step, with a picture of
 the part on its own, a picture of it going in, and a picture of it seated. Every
-piece in the arm has a step, and before each new section there is a view of the
-whole robot showing you where that section fits.
+piece in the arm has a step.
 
 It is not published yet. It will land here when it is finished.
 
