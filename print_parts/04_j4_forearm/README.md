@@ -4,19 +4,31 @@ Forearm rotation, its belt drive and bearing cartridge.
 
 Print these in the order the files are numbered. Settings below are what the part is designed for, not a suggestion - the material choice in particular matters, see the note at the bottom.
 
-1. **J4 DualBearingHousing HeadPockets** - ASA, 0.20 mm layers, 5 perimeters, 60% infill, supports on overhangs only. Orientation: bearing bore vertical so it stays round without supports.
-2. **HomeSwitchBracket J4** - PETG, 0.15 mm layers, 4 perimeters, 30% infill, supports on overhangs only. Orientation: largest face on the bed, X axis vertical.
-3. **J4 BearingRetainer Rear FlushCSK** - ASA, 0.20 mm layers, 4 perimeters, 30% infill, no supports. Orientation: bearing bore vertical so it stays round without supports.
-4. **J4 BearingRetainer Front** - ASA, 0.20 mm layers, 4 perimeters, 30% infill, no supports. Orientation: bearing bore vertical so it stays round without supports.
-5. **36T HTD3M DFlat OutputFlange SingleM5Clamp** - ASA, 0.20 mm layers, 5 perimeters, 60% infill, no supports. Orientation: largest face on the bed, X axis vertical.
-6. **J4 BoltedFlange ForearmMonocoque ThroughHoles** - ASA, 0.20 mm layers, 5 perimeters, 60% infill, supports on overhangs only. Orientation: largest face on the bed, Z axis vertical.
-7. **HomeFlag J4** - PETG, 0.20 mm layers, 3 perimeters, 30% infill, no supports. Orientation: largest face on the bed, X axis vertical.
-8. **J4 PG19 FrontFlangeCarriage** - ASA, 0.20 mm layers, 5 perimeters, 60% infill, no supports. Orientation: largest face on the bed, X axis vertical.
-9. **J4 MotorRearSupportClamp** - ASA, 0.20 mm layers, 4 perimeters, 30% infill, no supports. Orientation: largest face on the bed, Z axis vertical.
-10. **J4 GearmotorServiceCover Clearanced** - PETG, 0.15 mm layers, 4 perimeters, 30% infill, no supports. Orientation: largest face on the bed, Z axis vertical.
-11. **NEMA17 LoadMount A CoverBosses** - ASA, 0.20 mm layers, 4 perimeters, 30% infill, no supports. Orientation: largest face on the bed, Y axis vertical.
-12. **NEMA17 OpenBackCover A M3Flange** - PETG, 0.20 mm layers, 4 perimeters, 60% infill, no supports. Orientation: largest face on the bed, Y axis vertical.
-13. **NEMA17 LoadMount B CoverBosses** - ASA, 0.20 mm layers, 4 perimeters, 30% infill, no supports. Orientation: largest face on the bed, Y axis vertical.
-14. **NEMA17 OpenBackCover B M3Flange** - PETG, 0.20 mm layers, 4 perimeters, 60% infill, no supports. Orientation: largest face on the bed, Y axis vertical.
+1. **P304A J4 BearingCartridge** - ASA, 0.20 mm layers, 5 perimeters, 60% infill, supports on overhangs only. Orientation: largest face on the bed, X axis vertical.
+2. **P304B BottomFoot Rear** - ASA, 0.20 mm layers, 4 perimeters, 30% infill, no supports. Orientation: largest face on the bed, Z axis vertical.
+3. **P304C BottomFoot Front** - ASA, 0.20 mm layers, 4 perimeters, 30% infill, no supports. Orientation: largest face on the bed, X axis vertical.
+4. **P304D PG19Carrier Rear PosY** - ASA, 0.20 mm layers, 4 perimeters, 30% infill, supports on overhangs only. Orientation: largest face on the bed, Y axis vertical.
+5. **P304E PG19Carrier Rear NegY** - ASA, 0.20 mm layers, 4 perimeters, 30% infill, supports on overhangs only. Orientation: largest face on the bed, Y axis vertical.
+6. **P304F PG19Carrier Front PosY** - ASA, 0.20 mm layers, 5 perimeters, 30% infill, supports on overhangs only. Orientation: largest face on the bed, X axis vertical.
+7. **P304G PG19Carrier Front NegY** - ASA, 0.20 mm layers, 5 perimeters, 30% infill, supports on overhangs only. Orientation: largest face on the bed, X axis vertical.
+8. **HomeSwitchBracket J4** - PETG, 0.15 mm layers, 4 perimeters, 30% infill, supports on overhangs only. Orientation: largest face on the bed, X axis vertical.
+9. **J4 BearingRetainer Rear FlushCSK** - ASA, 0.20 mm layers, 4 perimeters, 30% infill, no supports. Orientation: bearing bore vertical so it stays round without supports.
+10. **J4 BearingRetainer Front** - ASA, 0.20 mm layers, 4 perimeters, 30% infill, no supports. Orientation: bearing bore vertical so it stays round without supports.
+11. **36T HTD3M DFlat OutputFlange SingleM5Clamp** - ASA, 0.20 mm layers, 5 perimeters, 60% infill, no supports. Orientation: largest face on the bed, X axis vertical.
+12. **P401A J4 OutputFlangeWithTabs** - ASA, 0.20 mm layers, 5 perimeters, 60% infill, no supports. Orientation: largest face on the bed, X axis vertical.
+13. **P401B ForearmSideFrame PosY** - ASA, 0.20 mm layers, 5 perimeters, 30% infill, no supports. Orientation: largest face on the bed, Y axis vertical.
+14. **P401D RearCrossbar Upper** - ASA, 0.20 mm layers, 4 perimeters, 30% infill, no supports. Orientation: largest face on the bed, X axis vertical.
+15. **P401E RearCrossbar Lower** - ASA, 0.20 mm layers, 4 perimeters, 30% infill, no supports. Orientation: largest face on the bed, X axis vertical.
+16. **P401F FrontCrossbar Upper** - ASA, 0.20 mm layers, 4 perimeters, 30% infill, no supports. Orientation: largest face on the bed, X axis vertical.
+17. **P401G FrontCrossbar Lower** - ASA, 0.20 mm layers, 4 perimeters, 30% infill, no supports. Orientation: largest face on the bed, X axis vertical.
+18. **P401C ForearmSideFrame NegY** - ASA, 0.20 mm layers, 5 perimeters, 30% infill, no supports. Orientation: largest face on the bed, Y axis vertical.
+19. **HomeFlag J4** - PETG, 0.20 mm layers, 3 perimeters, 30% infill, no supports. Orientation: largest face on the bed, X axis vertical.
+20. **J4 PG19 FrontFlangeCarriage** - ASA, 0.20 mm layers, 5 perimeters, 60% infill, no supports. Orientation: largest face on the bed, X axis vertical.
+21. **J4 MotorRearSupportClamp** - ASA, 0.20 mm layers, 4 perimeters, 30% infill, no supports. Orientation: largest face on the bed, Z axis vertical.
+22. **J4 GearmotorServiceCover Clearanced** - PETG, 0.15 mm layers, 4 perimeters, 30% infill, no supports. Orientation: largest face on the bed, Z axis vertical.
+23. **NEMA17 LoadMount A CoverBosses** - ASA, 0.20 mm layers, 4 perimeters, 30% infill, no supports. Orientation: largest face on the bed, Y axis vertical.
+24. **NEMA17 OpenBackCover A M3Flange** - PETG, 0.20 mm layers, 4 perimeters, 60% infill, no supports. Orientation: largest face on the bed, Y axis vertical.
+25. **NEMA17 LoadMount B CoverBosses** - ASA, 0.20 mm layers, 4 perimeters, 30% infill, no supports. Orientation: largest face on the bed, Y axis vertical.
+26. **NEMA17 OpenBackCover B M3Flange** - PETG, 0.20 mm layers, 4 perimeters, 60% infill, no supports. Orientation: largest face on the bed, Y axis vertical.
 
 ASA parts sit in the load path or next to a motor. Stepper bodies run hot enough that PLA creeps there under the permanent load every bolted joint carries, so those parts are not a place to save money. PETG parts are covers, gears, pulleys and brackets.

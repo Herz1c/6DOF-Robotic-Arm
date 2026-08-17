@@ -25,7 +25,11 @@ Print these in the order the files are numbered. Settings below are what the par
 19. **J1 DualBearingHousing Flanged** - ASA, 0.20 mm layers, 5 perimeters, 60% infill, supports on overhangs only. Orientation: bearing bore vertical so it stays round without supports.
 20. **J1 6807 TopRetainer CSK** - ASA, 0.20 mm layers, 5 perimeters, 30% infill, no supports. Orientation: bearing bore vertical so it stays round without supports.
 21. **HomeSwitchBracket J1** - PETG, 0.15 mm layers, 4 perimeters, 30% infill, supports on overhangs only. Orientation: largest face on the bed, Z axis vertical.
-22. **Turret J2CheekRelief** - ASA, 0.20 mm layers, 5 perimeters, 30% infill, supports on overhangs only. Orientation: largest face on the bed, Z axis vertical.
-23. **HomeFlag J1** - PETG, 0.20 mm layers, 3 perimeters, 30% infill, no supports. Orientation: largest face on the bed, Z axis vertical.
+22. **P101A J1 JournalCartridge** - ASA, 0.20 mm layers, 5 perimeters, 60% infill, supports on overhangs only. Orientation: largest face on the bed, Z axis vertical.
+23. **P101B LowerDeck** - ASA, 0.20 mm layers, 5 perimeters, 30% infill, no supports. Orientation: largest face on the bed, Z axis vertical.
+24. **P101E RearBridge** - ASA, 0.20 mm layers, 5 perimeters, 30% infill, no supports. Orientation: largest face on the bed, X axis vertical.
+25. **P101C J2Cheek Left** - ASA, 0.20 mm layers, 5 perimeters, 30% infill, supports on overhangs only. Orientation: largest face on the bed, Y axis vertical.
+26. **P101D J2Cheek Right** - ASA, 0.20 mm layers, 5 perimeters, 30% infill, supports on overhangs only. Orientation: largest face on the bed, Y axis vertical.
+27. **HomeFlag J1** - PETG, 0.20 mm layers, 3 perimeters, 30% infill, no supports. Orientation: largest face on the bed, Z axis vertical.
 
 ASA parts sit in the load path or next to a motor. Stepper bodies run hot enough that PLA creeps there under the permanent load every bolted joint carries, so those parts are not a place to save money. PETG parts are covers, gears, pulleys and brackets.
