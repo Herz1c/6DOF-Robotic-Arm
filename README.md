@@ -4,7 +4,9 @@
 
 I am building a six-axis robot arm that you can make at home. Almost every part
 of it comes off a 3D printer. What is left over is bearings, stepper
-motors and screws, all of it for less then 400$.
+motors and screws, all of it for less then 400$. Alongside the arm I am also
+building a AI model for object detection which will run on a Rockchip RK3588.
+Camera mount was already added to the model.
 
 ## Where this is right now
 
