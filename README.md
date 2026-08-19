@@ -1,3 +1,5 @@
+##WARNING! IDENTIFIED STRUCTURAL WEAKNESES DO NOT PRINT
+
 # A robot arm you can print
 
 ![The arm](docs/img/arm-iso.png)
