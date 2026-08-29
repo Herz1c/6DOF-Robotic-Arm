@@ -21,11 +21,11 @@ something to print and look at, not as a finished kit that is known to work.
 
 ## The assembly guide is coming
 
-I am writing a proper step-by-step guide. One part per step, with a picture of
-the part on its own, a picture of it going in, and a picture of it seated. Every
-piece in the arm has a step.
-
-It is not published yet. It will land here when it is finished.
+The assembly guide has been finally published, both czech and english versions.
+The manuals were created not only show how to put the prined pieces together,
+but also to act as a shopping list for all the necessary parts. Soon I am planning 
+on publishing links for the items needed (as soon as I finish the build and asure good
+quality of the parts)
 
 ## What is in here
 
