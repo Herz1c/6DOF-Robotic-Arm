@@ -19,7 +19,7 @@ The arm is fully designed, and I have checked the motion and the fits in CAD.
 But I have not built it, and neither has anyone else. So treat these files as
 something to print and look at, not as a finished kit that is known to work.
 
-## The assembly guide is coming
+## The assembly guide
 
 The assembly guide has been finally published, both czech and english versions.
 The manuals were created not only show how to put the prined pieces together,
@@ -39,6 +39,8 @@ order you need them:
 - J5 and J6 differential wrist
 - gripper
 - forearm lids
+
+Both manuals are in "docs" folder
 
 Every part has an STL to print and a STEP next to it if you would rather remesh
 it or change something. Each folder has a short readme with the material, layer
