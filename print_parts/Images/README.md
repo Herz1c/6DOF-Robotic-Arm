@@ -55,7 +55,6 @@ The PNG basename matches the STEP/STL basename in the section folders.
 | 03_j3_elbow | `010_HomeFlag_J3` | [010_HomeFlag_J3.png](010_HomeFlag_J3.png) |
 | 03_j3_elbow | `011_ElbowCheek_Left` | [011_ElbowCheek_Left.png](011_ElbowCheek_Left.png) |
 | 03_j3_elbow | `012_ElbowCheek_Right` | [012_ElbowCheek_Right.png](012_ElbowCheek_Right.png) |
-| 03_j3_elbow | `013_J3_LeftInnerRaceCollar_M3` | [013_J3_LeftInnerRaceCollar_M3.png](013_J3_LeftInnerRaceCollar_M3.png) |
 | 03_j3_elbow | `014_P216_J3_LoadCartridge_68mmGearbox` | [014_P216_J3_LoadCartridge_68mmGearbox.png](014_P216_J3_LoadCartridge_68mmGearbox.png) |
 | 03_j3_elbow | `015_UpperArmCheek_Right_A_J2SixBoltHoles` | [015_UpperArmCheek_Right_A_J2SixBoltHoles.png](015_UpperArmCheek_Right_A_J2SixBoltHoles.png) |
 | 03_j3_elbow | `016_UpperArmCheek_Right_B_6807InnerShoulder_M3Pilots` | [016_UpperArmCheek_Right_B_6807InnerShoulder_M3Pilots.png](016_UpperArmCheek_Right_B_6807InnerShoulder_M3Pilots.png) |
