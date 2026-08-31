@@ -1,4 +1,24 @@
-## WARNING! IDENTIFIED STRUCTURAL WEAKNESES DO NOT PRINT
+## The structural weakness that stopped printing is fixed
+
+The J2 and J3 output flanges were **1 mm thick** and carried the whole arm
+through six M5 screws each. At J2 that was 63 N a bolt bearing on one
+millimetre of printed plastic, 12 MPa against about 5 that the material will
+take. Both are rebuilt: J2 is now 6 mm and seats in a Ø96 register in the arm
+cheeks, so the torque goes through a cylindrical face instead of the screws,
+and J3 is 8 mm. Nothing outside the arm changed size.
+
+Four other things were found and fixed at the same time. The screws holding
+that flange passed through a 5.4 mm hole — clearance for M5, not a thread — so
+they gripped nothing at all; the cheeks now take heat-set inserts. The metal hub
+on the J2 output sat in a cavity closed at both ends and could not physically be
+fitted. The arm cheeks were trapped in a slot with a wall on both sides, so the
+build order changed to finish the rotating group before the turret closes around
+it. And all 121 printed parts were checked against each other for shared
+material: 34 pairs overlapped, now none except a gear pair drawn at its exact
+pitch circle.
+
+**Still true: nobody has built this arm.** It is checked in CAD, not in metal
+and plastic. Print it if you want to help find what CAD cannot see.
 
 # A robot arm you can print
 

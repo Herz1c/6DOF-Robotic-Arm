@@ -43,6 +43,7 @@ The PNG basename matches the STEP/STL basename in the section folders.
 | 02_j2_shoulder | `006_J2_SteppedBearingRetainerAdapter` | [006_J2_SteppedBearingRetainerAdapter.png](006_J2_SteppedBearingRetainerAdapter.png) |
 | 02_j2_shoulder | `007_J2_6807_Right_ExternalRetainer` | [007_J2_6807_Right_ExternalRetainer.png](007_J2_6807_Right_ExternalRetainer.png) |
 | 02_j2_shoulder | `008_J2_ActuatorServiceCover_M3x4` | [008_J2_ActuatorServiceCover_M3x4.png](008_J2_ActuatorServiceCover_M3x4.png) |
+| 02_j2_shoulder | `009_P217_J2HubDrillJig` | [009_P217_J2HubDrillJig.png](009_P217_J2HubDrillJig.png) |
 | 03_j3_elbow | `001_UpperArmCheek_Left_A_J2SixBoltHoles` | [001_UpperArmCheek_Left_A_J2SixBoltHoles.png](001_UpperArmCheek_Left_A_J2SixBoltHoles.png) |
 | 03_j3_elbow | `002_UpperArmCheek_Left_B_6807InnerShoulder` | [002_UpperArmCheek_Left_B_6807InnerShoulder.png](002_UpperArmCheek_Left_B_6807InnerShoulder.png) |
 | 03_j3_elbow | `003_UpperArmSplice_Left` | [003_UpperArmSplice_Left.png](003_UpperArmSplice_Left.png) |
