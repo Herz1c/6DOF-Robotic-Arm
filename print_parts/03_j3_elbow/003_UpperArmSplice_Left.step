@@ -10,11 +10,11 @@ FILE_DESCRIPTION(
 
 FILE_NAME(
 /* name */ 'PRINT_P209_UpperArmSplice_Left.step',
-/* time_stamp */ '2026-08-12T23:07:47+02:00',
+/* time_stamp */ '2026-09-30T17:26:08+02:00',
 /* author */ (''),
 /* organization */ (''),
-/* preprocessor_version */ 'ST-DEVELOPER v20.1',
-/* originating_system */ 'Autodesk Translation Framework v15.8.0.0',
+/* preprocessor_version */ 'ST-DEVELOPER v20.2',
+/* originating_system */ 'Autodesk Translation Framework v15.15.0.0',
 /* authorisation */ '');
 
 FILE_SCHEMA (('AUTOMOTIVE_DESIGN { 1 0 10303 214 3 1 1 }'));
@@ -176,10 +176,10 @@ DATA;
 #162=ORIENTED_EDGE('',*,*,#130,.F.);
 #163=ORIENTED_EDGE('',*,*,#134,.F.);
 #164=ORIENTED_EDGE('',*,*,#128,.F.);
-#165=ORIENTED_EDGE('',*,*,#113,.T.);
-#166=ORIENTED_EDGE('',*,*,#116,.T.);
-#167=ORIENTED_EDGE('',*,*,#119,.T.);
-#168=ORIENTED_EDGE('',*,*,#122,.T.);
+#165=ORIENTED_EDGE('',*,*,#115,.T.);
+#166=ORIENTED_EDGE('',*,*,#118,.T.);
+#167=ORIENTED_EDGE('',*,*,#121,.T.);
+#168=ORIENTED_EDGE('',*,*,#124,.T.);
 #169=ORIENTED_EDGE('',*,*,#135,.T.);
 #170=ORIENTED_EDGE('',*,*,#131,.F.);
 #171=ORIENTED_EDGE('',*,*,#133,.F.);
@@ -188,10 +188,10 @@ DATA;
 #174=ORIENTED_EDGE('',*,*,#132,.F.);
 #175=ORIENTED_EDGE('',*,*,#135,.F.);
 #176=ORIENTED_EDGE('',*,*,#126,.F.);
-#177=ORIENTED_EDGE('',*,*,#115,.T.);
-#178=ORIENTED_EDGE('',*,*,#118,.T.);
-#179=ORIENTED_EDGE('',*,*,#121,.T.);
-#180=ORIENTED_EDGE('',*,*,#124,.T.);
+#177=ORIENTED_EDGE('',*,*,#113,.T.);
+#178=ORIENTED_EDGE('',*,*,#116,.T.);
+#179=ORIENTED_EDGE('',*,*,#119,.T.);
+#180=ORIENTED_EDGE('',*,*,#122,.T.);
 #181=ORIENTED_EDGE('',*,*,#134,.T.);
 #182=ORIENTED_EDGE('',*,*,#129,.F.);
 #183=ORIENTED_EDGE('',*,*,#136,.F.);
@@ -249,33 +249,33 @@ POSITIVE_RATIO_MEASURE(7850.),#203);
 #230=AXIS2_PLACEMENT_3D('',#335,#283,#284);
 #231=DIRECTION('axis',(0.,0.,1.));
 #232=DIRECTION('refdir',(1.,0.,0.));
-#233=DIRECTION('center_axis',(0.,1.,0.));
+#233=DIRECTION('center_axis',(0.,-1.,0.));
 #234=DIRECTION('ref_axis',(1.,0.,0.));
-#235=DIRECTION('center_axis',(0.,1.,0.));
+#235=DIRECTION('center_axis',(0.,-1.,0.));
 #236=DIRECTION('ref_axis',(1.,0.,0.));
-#237=DIRECTION('',(0.,1.,0.));
-#238=DIRECTION('center_axis',(0.,-1.,0.));
+#237=DIRECTION('',(0.,-1.,0.));
+#238=DIRECTION('center_axis',(0.,1.,0.));
 #239=DIRECTION('ref_axis',(1.,0.,0.));
-#240=DIRECTION('center_axis',(0.,1.,0.));
+#240=DIRECTION('center_axis',(0.,-1.,0.));
 #241=DIRECTION('ref_axis',(1.,0.,0.));
-#242=DIRECTION('center_axis',(0.,1.,0.));
+#242=DIRECTION('center_axis',(0.,-1.,0.));
 #243=DIRECTION('ref_axis',(1.,0.,0.));
-#244=DIRECTION('',(0.,1.,0.));
-#245=DIRECTION('center_axis',(0.,-1.,0.));
+#244=DIRECTION('',(0.,-1.,0.));
+#245=DIRECTION('center_axis',(0.,1.,0.));
 #246=DIRECTION('ref_axis',(1.,0.,0.));
-#247=DIRECTION('center_axis',(0.,1.,0.));
+#247=DIRECTION('center_axis',(0.,-1.,0.));
 #248=DIRECTION('ref_axis',(1.,0.,0.));
-#249=DIRECTION('center_axis',(0.,1.,0.));
+#249=DIRECTION('center_axis',(0.,-1.,0.));
 #250=DIRECTION('ref_axis',(1.,0.,0.));
-#251=DIRECTION('',(0.,1.,0.));
-#252=DIRECTION('center_axis',(0.,-1.,0.));
+#251=DIRECTION('',(0.,-1.,0.));
+#252=DIRECTION('center_axis',(0.,1.,0.));
 #253=DIRECTION('ref_axis',(1.,0.,0.));
-#254=DIRECTION('center_axis',(0.,1.,0.));
+#254=DIRECTION('center_axis',(0.,-1.,0.));
 #255=DIRECTION('ref_axis',(1.,0.,0.));
-#256=DIRECTION('center_axis',(0.,1.,0.));
+#256=DIRECTION('center_axis',(0.,-1.,0.));
 #257=DIRECTION('ref_axis',(1.,0.,0.));
-#258=DIRECTION('',(0.,1.,0.));
-#259=DIRECTION('center_axis',(0.,-1.,0.));
+#258=DIRECTION('',(0.,-1.,0.));
+#259=DIRECTION('center_axis',(0.,1.,0.));
 #260=DIRECTION('ref_axis',(1.,0.,0.));
 #261=DIRECTION('center_axis',(0.,0.,1.));
 #262=DIRECTION('ref_axis',(1.,0.,0.));
@@ -302,48 +302,48 @@ POSITIVE_RATIO_MEASURE(7850.),#203);
 #283=DIRECTION('center_axis',(-1.,0.,0.));
 #284=DIRECTION('ref_axis',(0.,0.,1.));
 #285=CARTESIAN_POINT('',(0.,0.,0.));
-#286=CARTESIAN_POINT('Origin',(160.,-64.,262.));
-#287=CARTESIAN_POINT('',(157.3,-68.,262.));
-#288=CARTESIAN_POINT('Origin',(160.,-68.,262.));
-#289=CARTESIAN_POINT('',(157.3,-60.,262.));
-#290=CARTESIAN_POINT('',(157.3,-64.,262.));
-#291=CARTESIAN_POINT('Origin',(160.,-60.,262.));
-#292=CARTESIAN_POINT('Origin',(160.,-64.,218.));
-#293=CARTESIAN_POINT('',(157.3,-68.,218.));
-#294=CARTESIAN_POINT('Origin',(160.,-68.,218.));
-#295=CARTESIAN_POINT('',(157.3,-60.,218.));
-#296=CARTESIAN_POINT('',(157.3,-64.,218.));
-#297=CARTESIAN_POINT('Origin',(160.,-60.,218.));
-#298=CARTESIAN_POINT('Origin',(110.,-64.,262.));
-#299=CARTESIAN_POINT('',(107.3,-68.,262.));
-#300=CARTESIAN_POINT('Origin',(110.,-68.,262.));
-#301=CARTESIAN_POINT('',(107.3,-60.,262.));
-#302=CARTESIAN_POINT('',(107.3,-64.,262.));
-#303=CARTESIAN_POINT('Origin',(110.,-60.,262.));
-#304=CARTESIAN_POINT('Origin',(110.,-64.,218.));
-#305=CARTESIAN_POINT('',(107.3,-68.,218.));
-#306=CARTESIAN_POINT('Origin',(110.,-68.,218.));
-#307=CARTESIAN_POINT('',(107.3,-60.,218.));
-#308=CARTESIAN_POINT('',(107.3,-64.,218.));
-#309=CARTESIAN_POINT('Origin',(110.,-60.,218.));
-#310=CARTESIAN_POINT('Origin',(135.,-64.,276.));
-#311=CARTESIAN_POINT('',(173.,-68.,276.));
-#312=CARTESIAN_POINT('',(173.,-60.,276.));
-#313=CARTESIAN_POINT('',(173.,-64.,276.));
-#314=CARTESIAN_POINT('',(97.,-60.,276.));
-#315=CARTESIAN_POINT('',(135.,-60.,276.));
-#316=CARTESIAN_POINT('',(97.,-68.,276.));
-#317=CARTESIAN_POINT('',(97.,-64.,276.));
-#318=CARTESIAN_POINT('',(135.,-68.,276.));
-#319=CARTESIAN_POINT('Origin',(135.,-64.,204.));
-#320=CARTESIAN_POINT('',(173.,-60.,204.));
-#321=CARTESIAN_POINT('',(173.,-68.,204.));
-#322=CARTESIAN_POINT('',(173.,-64.,204.));
-#323=CARTESIAN_POINT('',(97.,-68.,204.));
-#324=CARTESIAN_POINT('',(135.,-68.,204.));
-#325=CARTESIAN_POINT('',(97.,-60.,204.));
-#326=CARTESIAN_POINT('',(97.,-64.,204.));
-#327=CARTESIAN_POINT('',(135.,-60.,204.));
+#286=CARTESIAN_POINT('Origin',(160.,-64.,203.));
+#287=CARTESIAN_POINT('',(157.3,-60.,203.));
+#288=CARTESIAN_POINT('Origin',(160.,-60.,203.));
+#289=CARTESIAN_POINT('',(157.3,-68.,203.));
+#290=CARTESIAN_POINT('',(157.3,-64.,203.));
+#291=CARTESIAN_POINT('Origin',(160.,-68.,203.));
+#292=CARTESIAN_POINT('Origin',(110.,-64.,203.));
+#293=CARTESIAN_POINT('',(107.3,-60.,203.));
+#294=CARTESIAN_POINT('Origin',(110.,-60.,203.));
+#295=CARTESIAN_POINT('',(107.3,-68.,203.));
+#296=CARTESIAN_POINT('',(107.3,-64.,203.));
+#297=CARTESIAN_POINT('Origin',(110.,-68.,203.));
+#298=CARTESIAN_POINT('Origin',(110.,-64.,277.));
+#299=CARTESIAN_POINT('',(107.3,-60.,277.));
+#300=CARTESIAN_POINT('Origin',(110.,-60.,277.));
+#301=CARTESIAN_POINT('',(107.3,-68.,277.));
+#302=CARTESIAN_POINT('',(107.3,-64.,277.));
+#303=CARTESIAN_POINT('Origin',(110.,-68.,277.));
+#304=CARTESIAN_POINT('Origin',(160.,-64.,277.));
+#305=CARTESIAN_POINT('',(157.3,-60.,277.));
+#306=CARTESIAN_POINT('Origin',(160.,-60.,277.));
+#307=CARTESIAN_POINT('',(157.3,-68.,277.));
+#308=CARTESIAN_POINT('',(157.3,-64.,277.));
+#309=CARTESIAN_POINT('Origin',(160.,-68.,277.));
+#310=CARTESIAN_POINT('Origin',(135.,-64.,284.));
+#311=CARTESIAN_POINT('',(173.,-68.,284.));
+#312=CARTESIAN_POINT('',(173.,-60.,284.));
+#313=CARTESIAN_POINT('',(173.,-64.,284.));
+#314=CARTESIAN_POINT('',(97.,-60.,284.));
+#315=CARTESIAN_POINT('',(135.,-60.,284.));
+#316=CARTESIAN_POINT('',(97.,-68.,284.));
+#317=CARTESIAN_POINT('',(97.,-64.,284.));
+#318=CARTESIAN_POINT('',(135.,-68.,284.));
+#319=CARTESIAN_POINT('Origin',(135.,-64.,196.));
+#320=CARTESIAN_POINT('',(173.,-60.,196.));
+#321=CARTESIAN_POINT('',(173.,-68.,196.));
+#322=CARTESIAN_POINT('',(173.,-64.,196.));
+#323=CARTESIAN_POINT('',(97.,-68.,196.));
+#324=CARTESIAN_POINT('',(135.,-68.,196.));
+#325=CARTESIAN_POINT('',(97.,-60.,196.));
+#326=CARTESIAN_POINT('',(97.,-64.,196.));
+#327=CARTESIAN_POINT('',(135.,-60.,196.));
 #328=CARTESIAN_POINT('Origin',(135.,-68.,240.));
 #329=CARTESIAN_POINT('',(97.,-68.,240.));
 #330=CARTESIAN_POINT('',(173.,-68.,240.));
@@ -396,7 +396,7 @@ SOLID_ANGLE_UNIT()
 #345=PRODUCT_DEFINITION_SHAPE('',$,#348);
 #346=SHAPE_REPRESENTATION('',(#212),#338);
 #347=PRODUCT_DEFINITION_CONTEXT('part definition',#352,'design');
-#348=PRODUCT_DEFINITION('2026-08-12-23-07-47-087',
+#348=PRODUCT_DEFINITION('2026-09-30-17-26-08-660',
 'EXPORT_TMP_PRINT_P209_UpperArmSplice_Left',#349,#347);
 #349=PRODUCT_DEFINITION_FORMATION('',$,#354);
 #350=PRODUCT_RELATED_PRODUCT_CATEGORY(
@@ -407,7 +407,7 @@ SOLID_ANGLE_UNIT()
 #352=APPLICATION_CONTEXT(
 'Core Data for Automotive Mechanical Design Process');
 #353=PRODUCT_CONTEXT('part definition',#352,'mechanical');
-#354=PRODUCT('2026-08-12-23-07-47-087',
+#354=PRODUCT('2026-09-30-17-26-08-660',
 'EXPORT_TMP_PRINT_P209_UpperArmSplice_Left',$,(#353));
 #355=PRESENTATION_STYLE_ASSIGNMENT((#356));
 #356=SURFACE_STYLE_USAGE(.BOTH.,#357);
