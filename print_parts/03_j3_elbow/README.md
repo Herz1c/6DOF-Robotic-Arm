@@ -16,7 +16,7 @@ Print these in the order the files are numbered. Settings below are what the par
 10. **HomeFlag J3** - PETG, 0.20 mm layers, 3 perimeters, 30% infill, no supports. Orientation: largest face on the bed, Y axis vertical.
 11. **ElbowCheek Left** - ASA, 0.20 mm layers, 5 perimeters, 30% infill, supports on overhangs only. Orientation: largest face on the bed, Y axis vertical.
 12. **ElbowCheek Right** - ASA, 0.20 mm layers, 5 perimeters, 30% infill, supports on overhangs only. Orientation: largest face on the bed, Y axis vertical.
-13. **J3 LeftInnerRaceCollar M3** - PETG, 0.20 mm layers, 4 perimeters, 30% infill, no supports. Orientation: bearing bore vertical so it stays round without supports.
+13. *Not used - there is no file 013. The printed left inner race collar was dropped; the gearbox's own machined register stops the bearing instead.*
 14. **P216 J3 LoadCartridge 68mmGearbox** - ASA, 0.15 mm layers, 4 perimeters, 60% infill, supports on overhangs only. Orientation: largest face on the bed, X axis vertical.
 15. **UpperArmCheek Right A J2SixBoltHoles** - ASA, 0.20 mm layers, 5 perimeters, 30% infill, supports on overhangs only. Orientation: largest face on the bed, Y axis vertical.
 16. **UpperArmCheek Right B 6807InnerShoulder M3Pilots** - ASA, 0.20 mm layers, 5 perimeters, 30% infill, supports on overhangs only. Orientation: largest face on the bed, Y axis vertical.

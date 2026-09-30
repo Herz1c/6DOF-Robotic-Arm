@@ -2,16 +2,16 @@
 
 I am building a six-axis robot arm that you can make at home. Almost every part
 of it comes off a 3D printer. What is left over is bearings, stepper
-motors and screws, all of it for less then 400$. Alongside the arm I am also
-building a AI model for object detection which will run on a Rockchip RK3588.
-Camera mount was already added to the model and asembly guides.
+motors and screws, all of it for less than 400$. Alongside the arm I am also
+building an AI model for object detection which will run on a Rockchip RK3588.
+Camera mount was already added to the model and assembly guides.
 
 ![The arm](docs/img/arm-iso.png)
 
 ## Where this is right now
 
 Work in progress. What sits in this repository today is the printable parts and
-nothing else.
+the assembly guide, nothing else.
 
 The arm is fully designed, and I have checked the motion and the fits in CAD.
 But I have not built it, and neither has anyone else. So treat these files as
@@ -20,9 +20,9 @@ something to print and look at, not as a finished kit that is known to work.
 ## The assembly guide
 
 The assembly guide has been finally published, both czech and english versions.
-The manuals were created not only show how to put the prined pieces together,
+The manuals were created not only to show how to put the printed pieces together,
 but also to act as a shopping list for all the necessary parts. Soon I am planning 
-on publishing links for the items needed (as soon as I finish the build and asure good
+on publishing links for the items needed (as soon as I finish the build and assure good
 quality of the parts)
 
 ## What is in here

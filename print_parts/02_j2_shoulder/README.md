@@ -12,5 +12,6 @@ Print these in the order the files are numbered. Settings below are what the par
 6. **J2 SteppedBearingRetainerAdapter** - ASA, 0.20 mm layers, 5 perimeters, 30% infill, no supports. Orientation: bearing bore vertical so it stays round without supports.
 7. **J2 6807 Right ExternalRetainer** - ASA, 0.20 mm layers, 5 perimeters, 30% infill, no supports. Orientation: bearing bore vertical so it stays round without supports.
 8. **J2 ActuatorServiceCover M3x4** - PETG, 0.20 mm layers, 4 perimeters, 30% infill, no supports. Orientation: largest face on the bed, X axis vertical.
+9. **P217 J2HubDrillJig** - ASA, 0.20 mm layers, 4 perimeters, 60% infill, no supports. Orientation: largest face on the bed, Y axis vertical. This one is a tool, not a part of the arm: the bought J2 hub has no bolt circle, and its eight M5 holes are drilled through this jig.
 
 ASA parts sit in the load path or next to a motor. Stepper bodies run hot enough that PLA creeps there under the permanent load every bolted joint carries, so those parts are not a place to save money. PETG parts are covers, gears, pulleys and brackets.
