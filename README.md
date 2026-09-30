@@ -74,5 +74,4 @@ the load path or next to a motor are ASA, because stepper bodies get hot enough
 that PLA slowly gives way under the permanent squeeze that every bolted joint
 lives under.
 
-Covers, gears, pulleys and brackets are PETG and much less fussy.
 
