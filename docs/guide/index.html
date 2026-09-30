@@ -1,0 +1,69 @@
+<!doctype html>
+<html lang="cs">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="color-scheme" content="light dark">
+<title>RobotArm 6DOF — 3D montážní návod</title>
+<meta name="description" content="Step-by-step 3D assembly guide for the printable RobotArm 6DOF.">
+<link rel="stylesheet" href="css/guide.css">
+<script type="importmap">
+{ "imports": { "three": "./vendor/three/three.module.js", "three/addons/": "./vendor/three/addons/" } }
+</script>
+</head>
+<body>
+<div class="app" id="app">
+  <header class="top">
+    <button class="icon" id="open-drawer" type="button"></button>
+    <button class="chapter-name" id="chapter-name" type="button"></button>
+    <span class="grow"></span>
+    <span class="counter" id="counter"></span>
+    <div class="seg" id="lang" role="group">
+      <button type="button" data-lang="cs">CS</button>
+      <button type="button" data-lang="en">EN</button>
+    </div>
+    <button class="icon" id="open-settings" type="button"></button>
+  </header>
+
+  <section class="viewport" id="viewport">
+    <div class="view-note" id="view-note" hidden></div>
+    <div class="view-tools" id="view-tools">
+      <div class="seg" id="modes" role="group">
+        <button type="button" data-mode="detail"></button>
+        <button type="button" data-mode="whole"></button>
+        <button type="button" data-mode="part"></button>
+      </div>
+      <button class="icon tool" id="replay" type="button"></button>
+      <button class="icon tool" id="xray" type="button"></button>
+      <button class="icon tool" id="home-view" type="button"></button>
+    </div>
+    <div class="loading" id="loading" hidden></div>
+  </section>
+
+  <aside class="panel" id="panel"></aside>
+
+  <footer class="nav">
+    <button class="btn" id="back" type="button"></button>
+    <div class="scrub">
+      <div class="ticks" id="ticks"></div>
+      <input type="range" id="scrub" min="1" max="1" step="1" value="1">
+      <output id="scrub-out" hidden></output>
+    </div>
+    <button class="btn primary" id="next" type="button"></button>
+  </footer>
+
+  <div class="shade" id="shade" hidden></div>
+  <nav class="drawer" id="drawer" hidden>
+    <div class="drawer-head">
+      <input type="search" id="search" autocomplete="off">
+      <button class="icon" id="close-drawer" type="button"></button>
+    </div>
+    <div class="drawer-body" id="drawer-body"></div>
+  </nav>
+  <div class="sheet" id="settings" hidden></div>
+  <div class="toast" id="toast" hidden></div>
+</div>
+<noscript>This guide needs JavaScript. The PDF edition is in docs/manual.</noscript>
+<script type="module" src="js/main.js"></script>
+</body>
+</html>

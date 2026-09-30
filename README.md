@@ -25,6 +25,12 @@ but also to act as a shopping list for all the necessary parts. Soon I am planni
 on publishing links for the items needed (as soon as I finish the build and assure good
 quality of the parts)
 
+There is also a 3D version of the guide that runs in the browser:
+[herz1c.github.io/6DOF-Robotic-Arm](https://herz1c.github.io/6DOF-Robotic-Arm/).
+It puts the arm together one part at a time, all 263 steps, and you can turn the
+model around to see where each part goes and which side the screws come from.
+It works on a phone and there is nothing to install.
+
 ## What is in here
 
 Everything printable, in `print_parts`, split into seven folders that follow the
@@ -38,7 +44,7 @@ order you need them:
 - gripper
 - forearm lids
 
-Both manuals are in `docs` folder
+Both manuals are in `docs` folder, the browser guide in `docs/guide`
 
 Every part has an STL to print and a STEP next to it if you would rather remesh
 it or change something. Each folder has a short readme with the material, layer

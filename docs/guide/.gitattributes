@@ -1,0 +1,3 @@
+# These files are served exactly as they are. A checkout must not rewrite their
+# line endings, or the public copy stops matching web_guide/ byte for byte.
+* -text
